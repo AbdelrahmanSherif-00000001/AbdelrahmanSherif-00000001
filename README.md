@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wall.alphacoders.com/big.php?i=1328865/u/00000000?v=4" width="200" alt="Profile Picture"/>
+  <img src="[https://wall.alphacoders.com/big.php?i=1328865](https://images5.alphacoders.com/132/1328865.png)/u/00000000?v=4" width="200" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Sherif</h1>
@@ -21,10 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/abdelra44897089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelra44897089" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdelrahmansherif_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrahmansherif_21" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanSherif-00000001&show_icons=true&theme=tokyonight" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
