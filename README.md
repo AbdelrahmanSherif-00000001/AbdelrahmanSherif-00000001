@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="[https://wall.alphacoders.com/big.php?i=1328865](https://images5.alphacoders.com/132/1328865.png)/u/00000000?v=4" width="200" alt="Profile Picture"/>
-</p>
-
-![Uploading image.png…]()
-
-
 <h1 align="center">Hi 👋, I'm Abdelrahman Sherif</h1>
 <h3 align="center">Computer Science Student | ⚙️ Systems & Low-Level Dev Enthusiast</h3>
 
@@ -19,6 +12,9 @@
 - 📫 How to reach me **abdelrahmansherif1106@gmail.com**
 
 - ⚡ Fun fact **Struggling to install and use Arch Linux, Love assembly**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
