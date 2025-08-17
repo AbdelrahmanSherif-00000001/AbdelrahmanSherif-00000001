@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdelrahmansherif1106@gmail.com**
 
-- ⚡ Fun fact **Struggling to install and use Arch Linux, Love assembly**
+- ⚡ Fun fact **Love assembly**
 
 
 
